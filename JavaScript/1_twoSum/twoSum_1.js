@@ -1,4 +1,5 @@
 /**
+ * #description 通过两次循环, 两个值的和为 target, 返回两个下标
  * @param {number[]} nums
  * @param {number} target
  * @return {number[]}
